@@ -1,4 +1,5 @@
 # MIUIstreamlines
+**项目作废 换(丢)手机了 仍然是Mi但不是这个机型**  
 MIUI精简工具 基于DNA工具  
 DNA下载地址： https://gitee.com/sharpeter/DNA  
 **本工具只用于K30Pro机型，其他机型不保证不出问题**  
